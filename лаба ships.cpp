@@ -26,7 +26,7 @@ int main()
 		fin >> N;
 		if (N < 1 || N > 10)
 		{
-			fout << "Error! The number of be from 1 to 10.";
+			fout << "Error! The number of berths should be from 1 to 10.";
 		}
 		int first_free_place = 1;//Первое по счету место, свободное для кораблей. 
 		vector <string> raid;
