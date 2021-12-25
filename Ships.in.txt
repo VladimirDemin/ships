@@ -1,0 +1,19 @@
+6
+1 Santa Maria
+1 Monitor
+1 Constitution
+2 3
+1 Victory
+3
+4
+1 Bismark
+1 Arisona
+1 Titanic
+1 Merrimack
+1 Potemkin
+3
+4
+2 4
+4
+3
+
